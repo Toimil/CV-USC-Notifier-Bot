@@ -31,7 +31,7 @@ img = "logo.png"
 payload = {
     'username': 'XXXXXXXXXX@rai.usc.es',
     'password': 'XXXXXXXXXX',
-    'execution': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx',
+    'execution': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
     '_eventId': 'submit',
     'geolocation': '', 
     'submit': 'Login3'
@@ -49,6 +49,7 @@ from win10toast import ToastNotifier
 import pystray
 import PIL.Image
 import os
+import ctypes
 
 
 # comprobaciones
@@ -108,5 +109,7 @@ def cv(icon):
                     toaster.show_toast("Campus Virtual", subjectNames[i], duration=30)
            
             time.sleep(60.0) # cada minuto comprobamos si se realizó algún cambio
-        
+
+ctypes.windll.user32.ShowWindow( ctypes.windll.kernel32.GetConsoleWindow(), 0 ) # ocultamos la terminal para mejorar la experiencia del usuario
+
 icon.run(cv)
