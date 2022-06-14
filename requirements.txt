@@ -1,0 +1,5 @@
+win10toast
+pypiwin32
+setuptools
+pystray
+pillow
