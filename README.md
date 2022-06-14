@@ -55,6 +55,9 @@ Necesitarás disponer de:
         <img src="https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Explicaciones/explicacion_firefox.gif" alt="animated" />
       </p>
 
+## Capturas de pantalla de la ejecución
+   
+![](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Screenshots/2817.jpg)  |  ![](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Screenshots/2818.jpg)
 
 ## Aviso
 
@@ -64,7 +67,8 @@ Necesitarás disponer de:
 ## Hecho con
 
 * [Python 3](https://www.python.org/)
-* [Selenium Webdriver](https://www.selenium.dev/projects/)
+* [Win10Toast](https://github.com/jithurjacob/Windows-10-Toast-Notifications)
+* [Pystray](https://github.com/moses-palmer/pystray)
 
 ## Autor
 
