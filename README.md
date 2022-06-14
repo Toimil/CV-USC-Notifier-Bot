@@ -7,26 +7,24 @@ CV-USC-Notifier-Bot es un bot que muestra una notificación cada vez que se real
 
 Debido a que las notificaciones que llegan por correo de los cambios en el campus virtual ya sean entregas, notas o nuevas tareas tardan a veces demasiado tiempo es de necesidad tener otra manera de enterarse de estos cambios de una manera mucho más inmediata.
 
-## Getting started
+## Compilación y ejecución
 
-### Prerequisites
+### Prerrequisitos
 
-You will need:
+Necesitarás disponer de:
 
-* Any of the following **browsers**: Firefox, Chromium.
+* Un espacio de trabajo con **Python**.
 
-* A working installation of **Python 3**.
+* Una versión de **Windows 10 o superior**.
 
-* The **```selenium``` module**, which is needed to control the browser, and which is not included by default in Python 3.
-    * You can add it to your Python installation using: ```pip3 install selenium```.
 
-### Running the script
+### Ejecución del bot
 
-1. Download the file ```backup.py```
+1. Clona este repositorio en tu sistema ```git clone https://github.com/Toimil/CV-USC-Notifier-Bot``` o descárgalo colocando todos los archivos en el mismo directorio
 
-2. Grant it execution permissions; one way would be running: ```chmod u+x ./backup.py```
+2. Instala todas las librerias mencionadas en requirements.txt para asegurar un correcto funcionamiento del bot ```pip install -r requirements.txt```
 
-3. Execute the script: ```./backup.py```
+3. Modifica la primera parte del código [notificaciones_cv.py](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/notificaciones_cv.py) para adaptarlo a tus necesidades:
 
     * The default browser that it will try to use is Chromium. You can also tell it to open Firefox, via an argument: ```./backup.py -d firefox```
     * If you do not need the files from all grades, you can restrict the search so that just the files in a certain grade (4 in total) are downloaded, also via an argument; for instance, you can download files from the third grade using: ```./backup.py -g 3```
