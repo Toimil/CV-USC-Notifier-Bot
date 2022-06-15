@@ -57,7 +57,7 @@ Necesitarás disponer de:
 
 ## Capturas de pantalla de la ejecución
    
-![](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Screenshots/2817.jpg)  |  ![](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Screenshots/2818.jpg)
+![](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Screenshots/2817.jpg)        ![](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/Screenshots/2818.jpg)
 
 ## Aviso
 
