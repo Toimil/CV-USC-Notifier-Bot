@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 '''
-Bot que muestra una notificación cada vez que se realiza un cambio en el campus virtual de la USC en las URLs indicadas
+Bot que muestra una notificación cada vez que se realiza un cambio en el campus virtual de la USC en las URLs indicadas por el usuario
 
-Instrucciones para un correcto funcionamiento del bot en 
+Instrucciones para un correcto funcionamiento del bot en https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/README.md
 
 
 © 2022 Toi1000, Santiago de Compostela, España © 
