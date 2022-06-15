@@ -61,13 +61,13 @@ Necesitarás disponer de:
 
 ## Aviso
 
-**Si el bot deja de funcionar o las notificaciones salen sin motivo alguno es porque es necesario volver a introducir otro nuevo valor para *execution* en el código, para ello volver a repetir el proceso descrito anteriormente**
+**Si el bot deja de funcionar o las notificaciones salen sin motivo alguno es porque es necesario volver a introducir otro nuevo valor para *execution* en el código, para ello volver a repetir el proceso descrito anteriormente**.
 
 ## Posibles mejoras
 
 En un futuro sería de gran interés modificar el bot para que sea multiplataforma, es decir, que se pueda usar además de en Windows en otros sistemas como diversas distribuciones de Linux.
 
-Además, otra posible mejora a realizar es alojar el bot en un servidor para que no haya que tener el ordenador encendido todo el tiempo ejecutando continuamente el script.
+Además, otra posible mejora a realizar, es alojar el bot en un servidor para que no haya que tener el ordenador encendido todo el tiempo ejecutando continuamente el script.
 
 ## Hecho con
 
