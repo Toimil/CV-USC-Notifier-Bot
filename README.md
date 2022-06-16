@@ -1,4 +1,4 @@
-***Language:***
+***Idioma:***
 - [English](./README_en.md)
 - Español
 
