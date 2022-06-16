@@ -1,3 +1,8 @@
+***Language:***
+- [English](./README_en.md)
+- Español
+
+
 # CV-USC-Notifier-Bot
 
 CV-USC-Notifier-Bot es un bot que muestra una notificación por pantalla cada vez que se realiza un cambio en el [Campus Virtual de la USC](cv.usc.es) en las asignaturas indicadas por el usuario.
