@@ -40,7 +40,7 @@ Necesitarás disponer de:
 
 4. Ejecuta el script mediante el comando **```python3 notificaciones_cv.py```**
 
-5. Cuando desees finalizar la ejecución del bot tendrás que hacer ***click izquierdo*** en el icono y pulsar la opción ***Salir***.
+5. Cuando desees finalizar la ejecución del bot tendrás que hacer ***click derecho*** en el icono y pulsar la opción ***Salir***.
 
 
 ## Tutorial para obtener tu *"execution"*
