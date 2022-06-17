@@ -4,7 +4,7 @@
 
 # CV-USC-Notifier-Bot
 
-CV-USC-Notifier-Bot is a bot that displays a notification on the screen each time a change is made in the [USC Virtual Campus](cv.usc.es) in the subjects indicated by the user.
+CV-USC-Notifier-Bot is a bot that displays a notification on the screen each time a change is made in the [USC Virtual Campus](https://login.usc.es/cas/login?service=https%3A%2F%2Fcv.usc.es%2Flogin%2Findex.php) in the subjects indicated by the user.
 
 
 ## Why was this bot created?
@@ -30,7 +30,7 @@ You will need to have:
 
 2. Install all the libraries mentioned in [requirements.txt](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/requirements.txt) and thus ensure proper functioning of the bot, to do so, run the following command ```pip install -r requirements.txt```
 
-3. Modify the first part of the [notifications_cv.py](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/notifications_cv.py) code to suit your needs:
+3. Modify the first part of the [notificaciones_cv.py](https://github.com/Toimil/CV-USC-Notifier-Bot/blob/main/notificaciones_cv.py) code to suit your needs:
 
     * You must indicate the URLs of the subjects of which you want to be notified when a change is made in them, therefore, **modify the *URLs* list**.
     * Also, you must **modify the *subjectNames* list** and put the names of the subjects in the same order in which the URLs were entered.
