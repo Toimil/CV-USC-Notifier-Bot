@@ -37,7 +37,7 @@ You will need to have:
     * In addition, you can modify the icon with which the bot will be executed and indicate the image you want.
     * Finally, **you must indicate your e-mail and your virtual campus password as well as your *execution***. To get the above, a [*tutorial*](#tutorial-to-get-your-execution) has been provided.
 
-4. Run the script using the command **```python3 notifications_cv.py```**.
+4. Run the script using the command **```python3 notificaciones_cv.py```**.
 
 5. When you want to end the execution of the bot you will have to ***right click*** on the icon and press the ***Salir*** option.
 
