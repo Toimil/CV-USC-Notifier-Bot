@@ -84,6 +84,4 @@ Además, otra posible mejora a realizar, es alojar el bot en un servidor para qu
 
 * **Óscar Toimil** - [Toimil](https://github.com/Toimil)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
